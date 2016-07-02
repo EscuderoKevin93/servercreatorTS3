@@ -16,8 +16,7 @@ And Test.
 
 
 Changelog.
-
-# Created Script
-# Fix Bugs
-# Removed /?server_port=".$SERVER_PORT."
-# Removed $ts3->execute("clientupdate", array("client_nickname" => $NICK_QUERY));
++ Created Script
++ Fix Bugs
++ Removed /?server_port=".$SERVER_PORT."
++ Removed $ts3->execute("clientupdate", array("client_nickname" => $NICK_QUERY));
