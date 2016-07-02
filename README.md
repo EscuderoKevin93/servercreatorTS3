@@ -3,16 +3,18 @@ This its Simple Server Creator
 
 Features:
 
-Server Name
-Server Slots
-Server Port (If form blank, i use random port)
-When Server Created Show Token ServerAdmin
-When Server Created Show Server Port.
-When Server Created Show Name
-To Do List:
-Add reCAPTCHA Verification
-Edit data/config.php
-And Test.
++Server Name
++Server Slots
++Server Port (If form blank, i use random port)
++When Server Created Show Token ServerAdmin
++When Server Created Show Server Port.
++When Server Created Show Name
+
+-To Do List:
+--Add reCAPTCHA Verification
+
++Edit data/config.php
++And Test.
 
 
 Changelog.
