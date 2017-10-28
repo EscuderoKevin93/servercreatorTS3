@@ -194,7 +194,6 @@ input {
 }
 p.login.button,
 p.signin.button{
-	text-align: right;
 	margin: 5px 0;
 }
 
